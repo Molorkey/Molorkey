@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Molorkey;future+hecker+of+something)](https://git.io/typing-svg)
 
 <!--
 **Molorkey/Molorkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
